@@ -22,3 +22,7 @@ npm run build    # type-check and build to dist/
 ```
 
 The site is deployed to GitHub Pages by `.github/workflows/pages.yml` on every push to `main`.
+
+## License
+
+[MIT](LICENSE) — covers both the code and the written content. Use it freely.
